@@ -1,42 +1,64 @@
-# Olá! Seja bem vindo ao meu perfil aqui no GitHub 👋
+# Olá! 👋 Seja bem-vindo ao meu perfil no GitHub!
 
-📚 Sou estudante de Ciência da Computação e  desenvolvedor full-stack! 🧑‍💻
+Sou estudante de Ciência da Computação e desenvolvedor full-stack apaixonado por aprender e construir soluções criativas. 🧑‍💻
 
-📖 Atualmente estou estudando as seguintes linguagens:
+---
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+## 🚀 Tecnologias que estou estudando
+
+<div style="display: flex; gap: 15px; flex-wrap: wrap;">
+  <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img alt="HTML5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img alt="CSS3" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img alt="C#" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
 </div>
 
-##
+---
 
-<div> 
+## 📫 Me encontre por aqui
 
-  <a href="https://instagram.com/llao_z " target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:bearzotti.ce@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/carloseduardobearzotti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/llao_z)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bearzotti.ce@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carloseduardobearzotti)
 
-</div>
+---
 
-##
+## 💻 Minhas estatísticas no GitHub
+
 <div>
-  <a href="https://github.com/carlosbearzotti" target="_blank">
-    <img
-      loading="lazy"
-      height="150em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosbearzotti&layout=compact&langs_count=7&theme=dracula"
-    />
-    <img
-      loading="lazy"
-      height="150em"
-      src="https://github-readme-stats.vercel.app/api?username=carlosbearzotti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-    />
+  <a href="https://github.com/carlosbearzotti" target="_blank" rel="noopener noreferrer">
+    <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosbearzotti&layout=compact&langs_count=7&theme=dracula" />
+    <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=carlosbearzotti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   </a>
 </div>
 
+---
 
+## 📂 Alguns projetos em destaque
+
+| Projeto          | Descrição                               | Link                   |
+|------------------|---------------------------------------|------------------------|
+| Meu Portfólio    | Site pessoal com projetos e blog      | [Link](https://meusite.com) |
+| App ToDo List    | Aplicativo simples para tarefas       | [Link](https://github.com/carlosbearzotti/todo-list) |
+| Blog com React   | Blog feito com React e Node.js         | [Link](https://github.com/carlosbearzotti/blog-react) |
+
+---
+
+## 🛠️ Habilidades técnicas
+
+<div style="display: flex; gap: 15px; flex-wrap: wrap;">
+  <img alt="React" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img alt="Node.js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+  <img alt="Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+  <img alt="Docker" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+  <img alt="MySQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+</div>
+
+---
+
+<br>
+<p align="center">
+  Obrigado pela visita! Sinta-se à vontade para entrar em contato. 😊
+</p>

@@ -29,7 +29,7 @@ Sou estudante de Ciência da Computação e desenvolvedor full-stack. 🧑‍�
 
 <div>
   <a href="https://github.com/carlosbearzotti" target="_blank" rel="noopener noreferrer">
-    <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosbearzotti&layout=compact&langs_count=7&theme=dracula&cache_seconds=0" />
+    <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosbearzotti&layout=compact&langs_count=7&theme=dracula" />
     <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=carlosbearzotti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   </a>
 </div>

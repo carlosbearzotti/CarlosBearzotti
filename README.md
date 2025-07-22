@@ -17,15 +17,15 @@
 
 <div> 
 
-  <a href="https://instagram.com/1liplip1 " target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:brancofelipe1226@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felipe-rodrigues-branco-08b98a300" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/llao_z " target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:bearzotti.ce@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/carloseduardobearzotti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
 
 ##
 <div>
-<a href="https://github.com/Felipe-Rodrigues-Branco">
+<a href="https://github.com/carlosbearzotti">
 <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Rodrigues-Branco&layout=compact&langs_count=7&theme=dracula"/> <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=Felipe-Rodrigues-Branco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 

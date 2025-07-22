@@ -1,6 +1,6 @@
 # Olá! 👋 Seja bem-vindo ao meu perfil no GitHub!
 
-Sou estudante de Ciência da Computação e desenvolvedor full-stack apaixonado por aprender e construir soluções criativas. 🧑‍💻
+Sou estudante de Ciência da Computação e desenvolvedor full-stack. 🧑‍💻
 
 ---
 
@@ -33,16 +33,6 @@ Sou estudante de Ciência da Computação e desenvolvedor full-stack apaixonado 
     <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=carlosbearzotti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   </a>
 </div>
-
----
-
-## 📂 Alguns projetos em destaque
-
-| Projeto          | Descrição                               | Link                   |
-|------------------|---------------------------------------|------------------------|
-| Meu Portfólio    | Site pessoal com projetos e blog      | [Link](https://meusite.com) |
-| App ToDo List    | Aplicativo simples para tarefas       | [Link](https://github.com/carlosbearzotti/todo-list) |
-| Blog com React   | Blog feito com React e Node.js         | [Link](https://github.com/carlosbearzotti/blog-react) |
 
 ---
 
